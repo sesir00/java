@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "circle",
+            "request": "launch",
+            "mainClass": "circle",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayExample",
+            "request": "launch",
+            "mainClass": "ArrayExample",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayExample2",
+            "request": "launch",
+            "mainClass": "ArrayExample2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Author",
+            "request": "launch",
+            "mainClass": "Author",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "Book",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "BookDemo",
+            "request": "launch",
+            "mainClass": "BookDemo",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "areaCircle",
+            "request": "launch",
+            "mainClass": "areaCircle",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "arithmetic",
+            "request": "launch",
+            "mainClass": "arithmetic",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "calculateArea",
+            "request": "launch",
+            "mainClass": "calculateArea",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "operatorOverloading",
+            "request": "launch",
+            "mainClass": "operatorOverloading",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "output_test",
+            "request": "launch",
+            "mainClass": "output_test",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ques_1",
+            "request": "launch",
+            "mainClass": "ques_1",
+            "projectName": "Java_a7c07b7c"
+        }
+    ]
+}
